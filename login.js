@@ -30,10 +30,10 @@ document.addEventListener('DOMContentLoaded', function() {
             email: signupEmail,
             password: signupPassword
         };
-
+        
         localStorage.setItem('account', JSON.stringify(account));
         window.location.href = 'index.html';
-
+           
         signupForm.reset();
 
         
