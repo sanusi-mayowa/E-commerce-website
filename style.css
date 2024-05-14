@@ -924,10 +924,10 @@ details .title-price{
   padding: 10px 10px;
   line-height: 40px;
   border-radius: 50px;
-  background: #e8f6ea;
+  /* background: #e8f6ea; */
   font-weight: 500;
   color: #088178;
-  border:  1px solid #cce7d0;
+  /* border:  1px solid #cce7d0; */
   position: absolute;
   bottom: -2px;
   left: 210px;
